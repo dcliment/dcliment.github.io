@@ -1,0 +1,70 @@
+*{
+    font-family:Helvetica;
+    font-size:22px;
+    color:seashell;
+    background-color:black;
+    opacity:0.9
+}
+
+header{
+    padding: 19px 10px;
+    position:fixed;
+    width:1220px;
+}
+
+.logo-img{
+    text-align: left;
+}
+
+.navigation-header{
+    text-decoration:underline;
+    display:inline;
+    text-align:right;
+}
+
+.mission{
+    height:700px;
+    width:1200px;
+    background-image: url("C:\Users\David.Climent\Codecademy\Tea Cozy\Resources\img-mission-background.jpg");
+    align-items: center;
+}
+
+.Tea{
+    align-items: center;
+    max-width: 1000px;
+    display:flex;
+}
+
+.Tea li{
+    height:200px;
+    Width: 300px;
+}
+
+.Tea a{
+    padding:10px;
+}
+
+.Locations{
+    width: 500px;
+    background-image: url("C:\Users\David.Climent\Codecademy\Tea Cozy\Resources\img-locations-background.jpg");
+    justify-items: center
+}
+
+.Container{
+    width:300px;
+    opacity:1;
+    Color:black;
+    margin-top;:15px;
+    margin-left:40px;
+    }
+
+.prefooter{
+    text-align:center;
+    width:200px;
+}
+
+footer{
+    text-align: left;
+
+}
+
